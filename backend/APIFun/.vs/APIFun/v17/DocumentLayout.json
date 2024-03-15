@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\clair\\source\\repos\\FullStackFun\\backend\\APIFun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82E3C2C0-26B9-4FBD-A637-A8CA8ECBA6C9}|APIFun.csproj|c:\\users\\clair\\source\\repos\\fullstackfun\\backend\\apifun\\data\\ibowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E3C2C0-26B9-4FBD-A637-A8CA8ECBA6C9}|APIFun.csproj|solutionrelative:data\\ibowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E3C2C0-26B9-4FBD-A637-A8CA8ECBA6C9}|APIFun.csproj|c:\\users\\clair\\source\\repos\\fullstackfun\\backend\\apifun\\data\\efbowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E3C2C0-26B9-4FBD-A637-A8CA8ECBA6C9}|APIFun.csproj|solutionrelative:data\\efbowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E3C2C0-26B9-4FBD-A637-A8CA8ECBA6C9}|APIFun.csproj|c:\\users\\clair\\source\\repos\\fullstackfun\\backend\\apifun\\data\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E3C2C0-26B9-4FBD-A637-A8CA8ECBA6C9}|APIFun.csproj|solutionrelative:data\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E3C2C0-26B9-4FBD-A637-A8CA8ECBA6C9}|APIFun.csproj|c:\\users\\clair\\source\\repos\\fullstackfun\\backend\\apifun\\data\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E3C2C0-26B9-4FBD-A637-A8CA8ECBA6C9}|APIFun.csproj|solutionrelative:data\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E3C2C0-26B9-4FBD-A637-A8CA8ECBA6C9}|APIFun.csproj|c:\\users\\clair\\source\\repos\\fullstackfun\\backend\\apifun\\controllers\\bowlerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E3C2C0-26B9-4FBD-A637-A8CA8ECBA6C9}|APIFun.csproj|solutionrelative:controllers\\bowlerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E3C2C0-26B9-4FBD-A637-A8CA8ECBA6C9}|APIFun.csproj|c:\\users\\clair\\source\\repos\\fullstackfun\\backend\\apifun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E3C2C0-26B9-4FBD-A637-A8CA8ECBA6C9}|APIFun.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E3C2C0-26B9-4FBD-A637-A8CA8ECBA6C9}|APIFun.csproj|c:\\users\\clair\\source\\repos\\fullstackfun\\backend\\apifun\\data\\bowlercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E3C2C0-26B9-4FBD-A637-A8CA8ECBA6C9}|APIFun.csproj|solutionrelative:data\\bowlercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E3C2C0-26B9-4FBD-A637-A8CA8ECBA6C9}|APIFun.csproj|c:\\users\\clair\\source\\repos\\fullstackfun\\backend\\apifun\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82E3C2C0-26B9-4FBD-A637-A8CA8ECBA6C9}|APIFun.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E3C2C0-26B9-4FBD-A637-A8CA8ECBA6C9}|APIFun.csproj|c:\\users\\clair\\source\\repos\\fullstackfun\\backend\\apifun\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E3C2C0-26B9-4FBD-A637-A8CA8ECBA6C9}|APIFun.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\clair\\source\\repos\\FullStackFun\\backend\\APIFun\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\clair\\source\\repos\\FullStackFun\\backend\\APIFun\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T19:45:27.877Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IBowlerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\clair\\source\\repos\\FullStackFun\\backend\\APIFun\\Data\\IBowlerRepository.cs",
+              "RelativeDocumentMoniker": "Data\\IBowlerRepository.cs",
+              "ToolTip": "C:\\Users\\clair\\source\\repos\\FullStackFun\\backend\\APIFun\\Data\\IBowlerRepository.cs",
+              "RelativeToolTip": "Data\\IBowlerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T23:50:31.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EFBowlerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\clair\\source\\repos\\FullStackFun\\backend\\APIFun\\Data\\EFBowlerRepository.cs",
+              "RelativeDocumentMoniker": "Data\\EFBowlerRepository.cs",
+              "ToolTip": "C:\\Users\\clair\\source\\repos\\FullStackFun\\backend\\APIFun\\Data\\EFBowlerRepository.cs",
+              "RelativeToolTip": "Data\\EFBowlerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T23:52:48.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\clair\\source\\repos\\FullStackFun\\backend\\APIFun\\Data\\Team.cs",
+              "RelativeDocumentMoniker": "Data\\Team.cs",
+              "ToolTip": "C:\\Users\\clair\\source\\repos\\FullStackFun\\backend\\APIFun\\Data\\Team.cs",
+              "RelativeToolTip": "Data\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T00:09:17.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bowler.cs",
+              "DocumentMoniker": "C:\\Users\\clair\\source\\repos\\FullStackFun\\backend\\APIFun\\Data\\Bowler.cs",
+              "RelativeDocumentMoniker": "Data\\Bowler.cs",
+              "ToolTip": "C:\\Users\\clair\\source\\repos\\FullStackFun\\backend\\APIFun\\Data\\Bowler.cs",
+              "RelativeToolTip": "Data\\Bowler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T19:21:49.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BowlersController.cs",
+              "DocumentMoniker": "C:\\Users\\clair\\source\\repos\\FullStackFun\\backend\\APIFun\\Controllers\\BowlersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BowlersController.cs",
+              "ToolTip": "C:\\Users\\clair\\source\\repos\\FullStackFun\\backend\\APIFun\\Controllers\\BowlersController.cs",
+              "RelativeToolTip": "Controllers\\BowlersController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T23:57:40.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BowlerContext.cs",
+              "DocumentMoniker": "C:\\Users\\clair\\source\\repos\\FullStackFun\\backend\\APIFun\\Data\\BowlerContext.cs",
+              "RelativeDocumentMoniker": "Data\\BowlerContext.cs",
+              "ToolTip": "C:\\Users\\clair\\source\\repos\\FullStackFun\\backend\\APIFun\\Data\\BowlerContext.cs",
+              "RelativeToolTip": "Data\\BowlerContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T19:38:19.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\clair\\source\\repos\\FullStackFun\\backend\\APIFun\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\clair\\source\\repos\\FullStackFun\\backend\\APIFun\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-13T19:40:30.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\clair\\source\\repos\\FullStackFun\\backend\\APIFun\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\clair\\source\\repos\\FullStackFun\\backend\\APIFun\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T23:35:24.929Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
